@@ -1,0 +1,6 @@
+[Thu Nov 22 07:35:52.686694 2018] [core:warn] [pid 11064:tid 308] AH00098: pid file D:/ahmed 1uni6 (20180174)/7/usb web server      library       database/apache2/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Nov 22 07:35:54.999826 2018] [mpm_winnt:notice] [pid 11064:tid 308] AH00455: Apache/2.4.6 (Win32) PHP/5.4.17 configured -- resuming normal operations
+[Thu Nov 22 07:35:54.999826 2018] [mpm_winnt:notice] [pid 11064:tid 308] AH00456: Apache Lounge VC10 Server built: Jul 16 2013 11:15:41
+[Thu Nov 22 07:35:54.999826 2018] [core:notice] [pid 11064:tid 308] AH00094: Command line: 'D:\\ahmed 1uni6 (20180174)\\7\\usb web server      library       database/apache2/bin/httpd_usbwv8.exe -d D:/ahmed 1uni6 (20180174)/7/usb web server      library       database/apache2'
+[Thu Nov 22 07:35:55.008826 2018] [mpm_winnt:notice] [pid 11064:tid 308] AH00418: Parent: Created child process 4016
+[Thu Nov 22 07:35:55.913878 2018] [mpm_winnt:notice] [pid 4016:tid 540] AH00354: Child: Starting 64 worker threads.
